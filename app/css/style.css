@@ -1,0 +1,60 @@
+.container-fluid {
+  width: 100%;
+  padding: 0; }
+  .container-fluid .small-top li {
+    padding: 3px 10px;
+    color: #ca1b1b;
+    border-left: 1px solid gray; }
+  .container-fluid .small-top li:last-child {
+    border-right: 1px solid gray; }
+  .container-fluid .small-top {
+    background: black; }
+  .container-fluid .top-head a {
+    color: white; }
+  .container-fluid .top-head {
+    background: #141517;
+    color: white;
+    line-height: 50px;
+    border-top: 1px solid gray; }
+  .container-fluid a {
+    color: black; }
+  .container-fluid a:hover {
+    color: #ca1b1b; }
+  .container-fluid .active {
+    border-bottom: 2px solid #FD3A13; }
+  .container-fluid .main-menu a {
+    color: black;
+    font-weight: bold; }
+  .container-fluid .main-menu a:hover {
+    border-bottom: 2px solid #FD3A13; }
+  .container-fluid .element {
+    margin-bottom: 20px; }
+  .container-fluid .carousel-indicators li {
+    border: 1px solid black;
+    background: white; }
+  .container-fluid .carousel-indicators li.active {
+    background: black; }
+  .container-fluid .carousel-item {
+    border: none; }
+  .container-fluid .navbar {
+    padding-top: 0;
+    padding-bottom: 0; }
+
+.content1 {
+  padding-top: 30px;
+  background: #EBEBEB; }
+
+.content2 {
+  background: #fff; }
+  .content2 .title {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid black; }
+  .content2 .active {
+    border: none; }
+
+footer {
+  background: #222;
+  line-height: 50px;
+  color: white;
+  padding: 30px; }
